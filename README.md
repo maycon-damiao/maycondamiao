@@ -2,7 +2,7 @@
  
  I'm studying programming with a focus on web development 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maycondamiao&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maycon-damiao&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **maycondamiao/maycondamiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
