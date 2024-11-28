@@ -1,12 +1,5 @@
-Oi, eu sou o Maycon :wave:
 
-🎖️Analista de Dados
-
-🚀Excel
-🚀Power BI
-🚀Python
-🚀SQL
-
+💬
  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maycon-damiao&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
